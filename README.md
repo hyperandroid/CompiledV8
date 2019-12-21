@@ -6,6 +6,7 @@ These libraries have been tested in actual android applications.
 
 Current v8 versions available:
 
++ 5.9
 + 6.3
 + 6.4
 + 7.2

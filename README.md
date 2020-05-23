@@ -11,3 +11,4 @@ Current v8 versions available:
 + 6.4
 + 7.2
 + 8.0
++ 8.4 (isolate logger disabled due to crash on initialization).

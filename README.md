@@ -12,3 +12,4 @@ Current v8 versions available:
 + 7.2
 + 8.0
 + 8.4 (isolate logger disabled due to crash on initialization).
++ 9.4 arm, arm64, x86, x64
